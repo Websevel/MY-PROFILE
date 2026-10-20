@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
-<img src=["https://capsule-render.vercel.app/api?](https://github.com/Websevel/MY-PROFILE/blob/main/Screenshot%202025-07-02%20134032.png)type=waving&color=0:0A66C2,100:0D1117&height=210&section=header&text=Osama%20Khan&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%26%20Machine%20Learning%20Engineer&descSize=21&descAlignY=58&animation=fadeIn" alt="Osama Khan – AI & Machine Learning Engineer" width="100%" />
+<img src="https://github.com/Websevel/MY-PROFILE/blob/main/Screenshot%202025-07-02%20134032.png" alt="Osama Khan – AI & Machine Learning Engineer" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=0A66C2&center=true&vCenter=true&width=700&height=45&lines=Building+Autonomous+Agents+%26+GenAI+Systems;Architecting+Production-Grade+MLOps+Pipelines;Turning+Models+into+Reliable+Products" alt="Typing SVG" />
