@@ -215,20 +215,3 @@
 
 ### 🚀 Engineering Standards & Philosophy
 
-
----
-
-### 🤝 Connect & Collaborate
-
-I am currently open to **AI/ML Engineering roles**, **Applied GenAI contracts**, and **Open-Source Collaborations**.
-
-- 💼 **LinkedIn**: [linkedin.com/in/osama-khan-220a1326a](https://www.linkedin.com/in/osama-khan-220a1326a/)
-- 📧 **Direct Inquiries**: [ok860184@gmail.com](mailto:ok860184@gmail.com)
-- 📍 **GitHub**: [@Websevel](https://github.com/Websevel)
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Websevel&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
