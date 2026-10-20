@@ -1,203 +1,194 @@
-<!-- Profile Banner / Photo -->
 <div align="center">
-  <img src="Screenshot 2025-07-02 134032.png" alt="Osama Khan" width="200" style="border-radius:50%; border: 4px solid #0A66C2; box-shadow: 0 0 20px rgba(10, 102, 194, 0.3);" />
-</div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%230A66C2&size=40&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Osama+Khan+👋;AI+Engineer+%7C+ML+%7C+GenAI+%7C+MLOps" />
-</h1>
-
-<p align="center">
-  <b>Transforming Data into Intelligent Solutions</b>
-</p>
-
-<div align="center">
-  
-  <!-- Social Links -->
-  <a href="mailto:ok860184@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A66C2" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/osama-khan-220a1326a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <!-- Profile Avatar -->
   <a href="https://github.com/Websevel">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://avatars.githubusercontent.com/u/153910803?v=4" alt="Osama Khan" width="160" style="border-radius: 50%; border: 3px solid #0A66C2; box-shadow: 0 0 25px rgba(10, 102, 194, 0.45);" />
   </a>
-  
-</div>
 
----
+  <!-- Animated Role Header -->
+  <h1 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=620&height=50&lines=Hi+there!+I'm+Osama+Khan+👋;AI+%26+Machine+Learning+Engineer;Building+Autonomous+Agents+%26+GenAI;Architecting+Production+MLOps+Pipelines" alt="Typing SVG" />
+    </a>
+  </h1>
 
-## 🚀 What I Do
+  <p align="center">
+    <strong>Engineering Scalable AI Systems · Generative AI Workflows · Computer Vision Pipelines</strong>
+  </p>
 
-<div align="center">
-
-| **End-to-End ML** | **GenAI Applications** | **MLOps & Infrastructure** |
-|:---:|:---:|:---:|
-| 📊 Data ➜ Training ➜ Evaluation ➜ Inference ➜ Monitoring | 🤖 Chat Agents, Tool-Use, Multimodal Pipelines | ⚙️ Experiment Tracking, Model Registry, Observability |
-
-</div>
-
----
-
-## 🔧 Tech Stack
-
-### Languages & Frameworks
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-</div>
-
-### Machine Learning & Deep Learning
-<div align="center">
-  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-0176FF?style=for-the-badge&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-792EE5?style=for-the-badge&logo=lightgbm&logoColor=white)
-
-</div>
-
-### Generative AI & LLMs
-<div align="center">
-  
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Vector_DBs-00D9FF?style=for-the-badge&logo=pinecone&logoColor=white)
-
-</div>
-
-### MLOps & DevOps
-<div align="center">
-  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-### API & Serving
-<div align="center">
-  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Ray](https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white)
+  <!-- Quick Action Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/osama-khan-220a1326a/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ok860184@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/Websevel?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-16_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 🌟 Featured Projects
+### 💼 Technical Competency Matrix
 
 <div align="center">
 
-### 🎯 Interactive & Production-Ready Applications
+| 🤖 Generative AI & Agents | 🔬 Machine Learning & Vision | ⚙️ MLOps & Production Backend |
+| :--- | :--- | :--- |
+| • Autonomous Agent Loops & Tool-Use<br>• Context Windows & Sliding Memory<br>• Dynamic Prompt Compilation<br>• RAG & Vector Embeddings | • Deep Learning & Feature Attribution<br>• Digital Image Processing (DIP)<br>• Time-Series Forecasting & Backtesting<br>• Explainable AI (SHAP / Interpretability) | • Resilient Network Fault-Tolerance<br>• REST API Design & Asynchronous Workers<br>• Containerization (Docker) & Linux<br>• Model Caching & Memory-Safe Streaming |
 
 </div>
 
-<table>
-<tr>
-<td width="50%">
+---
 
-#### 🖥️ Process Scheduling Simulator
-**Interactive CPU scheduling visualizer and simulator**
+### 🛠️ Core Technology Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<div align="center">
+
+#### Languages & Foundations
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 </p>
 
-- ⚡ Real-time visualization of scheduling algorithms
-- 📊 Interactive parameter tuning
-- 🎨 Modern UI with live updates
+#### Machine Learning, Deep Learning & Vision
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/XGBoost-0176FF?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost" />
+</p>
+
+#### Generative AI & LLM Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Vector_DBs-00D9FF?style=for-the-badge&logo=pinecone&logoColor=black" alt="Vector DBs" />
+</p>
+
+#### Backend, Serving & MLOps
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+</div>
+
+---
+
+### 🌟 Featured AI & Machine Learning Systems
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 [Multimodal Image Studio](https://github.com/Websevel/multimodal-image-generation-studio)
+**Resilient Full-Stack Text-to-Image Generation System**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-FF6B6B?style=flat-square)
+
+- 🛡️ **Fault Tolerance**: Exponential backoff retry layer recovering 100% of transient gateway timeouts.
+- ⚡ **Integrity Engine**: Streamed MIME verification preventing zero-byte and corrupted image writes.
+- 🔌 **Pluggable Architecture**: Modular provider backend supporting zero-cost and commercial diffusion models.
+
+[**Explore Codebase ➔**](https://github.com/Websevel/multimodal-image-generation-studio)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🌾 Crop Prediction System
-**ML-powered crop recommendation from soil & climate data**
+### ✍️ [Copywriting Tone Transformer](https://github.com/Websevel/Automated-Copywriting-Tone-Transformer)
+**Local AI Engine for Platform-Tailored Content Synthesis**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLMs-00ADB5?style=flat-square)
+![Async](https://img.shields.io/badge/AsyncIO-3776AB?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
+- 🎯 **Dynamic Prompt Compiler**: Contextual prompt assembly tailored for LinkedIn, Twitter, and Email channels.
+- 🎛️ **Granular Tone Control**: Algorithmic adjustments for formality, persuasion, and brevity.
+- ⚡ **Async Batching**: High-throughput queue for non-blocking multi-variant copy generation.
 
-- 🎯 Multi-class classification
-- 📈 Feature importance analysis
-- 🔍 Data-driven recommendations
+[**Explore Codebase ➔**](https://github.com/Websevel/Automated-Copywriting-Tone-Transformer)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📈 Stock Price Prediction
-**Time-series forecasting with backtesting**
+### 🍎 [FruitVision AI](https://github.com/Websevel/FruitVision)
+**Computer Vision Ripeness & Quality Degradation Classifier**
+<br>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DIP](https://img.shields.io/badge/Image_Processing-00C7B7?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/XGBoost-0176FF?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prophet-FF6B6B?style=for-the-badge&logo=prophet&logoColor=white" />
-</p>
+- 👁️ **Visual Inspection**: Digital image processing pipeline extracting HSV color moments and texture cues.
+- 📊 **Multi-Stage Scoring**: Automated ripeness grading and defect classification from raw camera frames.
+- 🔬 **Edge Ready**: Lightweight inference footprint designed for deployment on resource-constrained devices.
 
-- 📊 Advanced time-series models
-- 🔄 Backtesting framework
-- 📉 Risk analysis & metrics
+[**Explore Codebase ➔**](https://github.com/Websevel/FruitVision)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### ❤️ Heart Disease Prediction
-**Classification with explainability**
+### 🤖 [Autonomous Data Agent](https://github.com/Websevel/Agentic-AI-Autonomous-Data-Analysis)
+**Multi-Step Agentic Workflow for Exploratory Data Analytics**
+<br>
+![Agentic](https://img.shields.io/badge/Agentic_AI-FF4B4B?style=flat-square)
+![RAG](https://img.shields.io/badge/LangFlow-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![EDA](https://img.shields.io/badge/Automated_EDA-4479A1?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=shap&logoColor=white" />
-</p>
+- 🧠 **Autonomous Planning**: Deconstructs raw datasets into structured exploratory plans without human supervision.
+- 📈 **Automated Syntheses**: Generates statistical breakdowns, correlation matrices, and visual charts.
+- 🔗 **LLM Tool-Calling**: Connects natural language intent with programmatic Python analytics routines.
 
-- 🎯 High-accuracy predictions
-- 🔍 SHAP explainability
-- 📊 Feature importance visualization
+[**Explore Codebase ➔**](https://github.com/Websevel/Agentic-AI-Autonomous-Data-Analysis)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 📊 Data Visualization Dashboard
-**Exploratory dashboards & statistical plots**
+### 💬 [Context-Aware Chatbot](https://github.com/Websevel/Coversational-Chatbot-Beginner)
+**Multi-Turn Dialogue Engine with Session State Management**
+<br>
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLP](https://img.shields.io/badge/Session_Memory-00ADB5?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
+- 🔄 **Sliding Context Window**: In-memory token-bounded conversation history preventing context overflow.
+- ⚡ **Low-Latency Streaming**: Responsive conversational turns via lightweight Flask integration.
+- 🛡️ **Graceful Fallback**: Handles API quota boundaries and network degradation seamlessly.
 
-- 📈 Interactive visualizations
-- 🎨 Customizable dashboards
-- 📊 Statistical analysis tools
+[**Explore Codebase ➔**](https://github.com/Websevel/Coversational-Chatbot-Beginner)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-#### 🤖 Agetic AI (LangFlow)
-**PDF summary analyzer using LLM orchestration**
+### 🌾 [Crop Prediction System](https://github.com/Websevel/Crop-Prediction-System)
+**Predictive Machine Learning for Agricultural Intelligence**
+<br>
+![Scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![ML](https://img.shields.io/badge/Explainability-SHAP-FF6B6B?style=flat-square)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangFlow-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=rag&logoColor=white" />
-</p>
+- 🎯 **Multivariate Modeling**: Soil chemistry (N, P, K), rainfall, and climate data mapped to optimal crop yields.
+- 🔍 **Model Explainability**: SHAP attribution values highlighting key drivers behind model recommendations.
+- 📊 **Robust Validation**: Cross-validated pipelines preventing data leakage across categorical distributions.
 
-- 📄 PDF processing & summarization
-- 🔗 RAG pipeline implementation
-- 🧠 LLM orchestration with LangFlow
+[**Explore Codebase ➔**](https://github.com/Websevel/Crop-Prediction-System)
 
 </td>
 </tr>
@@ -205,130 +196,39 @@
 
 ---
 
-## 📈 GitHub Statistics
+### 📊 Engineering Activity & Metrics
 
 <div align="center">
-  
-  <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Websevel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websevel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=FFFFFF" />
-  
+
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Websevel&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0A66C2&icon_color=0A66C2&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Websevel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0A66C2&text_color=FFFFFF" alt="Top Languages" />
+
 </div>
 
 <div align="center">
-  
-  <!-- GitHub Streak -->
+
   <img src="https://github-readme-streak-stats.demolab.com/?user=Websevel&theme=radical&hide_border=true&background=0D1117&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2" alt="GitHub Streak" />
-  
-</div>
-
-<div align="center">
-  
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Websevel&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-  
-</div>
-
----
-
-## 🎯 Skills & Expertise
-
-<div align="center">
-
-### Machine Learning
-![ML](https://img.shields.io/badge/Machine_Learning-Expert-0A66C2?style=flat-square&logo=python)
-![DL](https://img.shields.io/badge/Deep_Learning-Advanced-0A66C2?style=flat-square&logo=pytorch)
-![NLP](https://img.shields.io/badge/NLP-Intermediate-0A66C2?style=flat-square&logo=natural-language-processing)
-
-### Software Engineering
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python)
-![API](https://img.shields.io/badge/API_Development-Advanced-009688?style=flat-square&logo=fastapi)
-![DevOps](https://img.shields.io/badge/DevOps-Intermediate-2496ED?style=flat-square&logo=docker)
-
-### Data Engineering
-![Data](https://img.shields.io/badge/Data_Pipelines-Advanced-FF6B6B?style=flat-square&logo=apache-airflow)
-![ETL](https://img.shields.io/badge/ETL-Advanced-FF6B6B?style=flat-square&logo=etl)
-![SQL](https://img.shields.io/badge/SQL-Expert-4479A1?style=flat-square&logo=postgresql)
 
 </div>
 
 ---
 
-## 📈 Results & Highlights
+### 🚀 Engineering Standards & Philosophy
 
-<div align="center">
-
-| Metric | Achievement |
-|:---:|:---:|
-| 🎯 **Model Performance** | Improved baseline models with metric-driven iteration |
-| 🔍 **Explainability** | Implemented SHAP and model cards for transparency |
-| 🔄 **Reproducibility** | Built pipelines with versioned data and automatic evals |
-| 🚀 **Deployment** | Production-ready APIs with monitoring and observability |
-
-</div>
 
 ---
 
-## 🛠️ Engineering Practices
+### 🤝 Connect & Collaborate
+
+I am currently open to **AI/ML Engineering roles**, **Applied GenAI contracts**, and **Open-Source Collaborations**.
+
+- 💼 **LinkedIn**: [linkedin.com/in/osama-khan-220a1326a](https://www.linkedin.com/in/osama-khan-220a1326a/)
+- 📧 **Direct Inquiries**: [ok860184@gmail.com](mailto:ok860184@gmail.com)
+- 📍 **GitHub**: [@Websevel](https://github.com/Websevel)
 
 <div align="center">
 
-### CI/CD & Quality Assurance
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Testing](https://img.shields.io/badge/Testing-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Linting](https://img.shields.io/badge/Linting-Flake8-000000?style=for-the-badge&logo=python&logoColor=white)
-
-### Reproducibility & Documentation
-![Dependencies](https://img.shields.io/badge/Dependencies-requirements.txt-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Environment](https://img.shields.io/badge/Environment-conda.yml-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Notebooks](https://img.shields.io/badge/Notebooks-Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-
-</div>
-
----
-
-## 💡 Current Focus
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/🔬_Research-Generative_AI-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Building-MLOps_Pipelines-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📚_Learning-Advanced_ML-4ECDC4?style=for-the-badge" />
-  
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-  <a href="mailto:ok860184@gmail.com">
-    <img src="https://img.shields.io/badge/📧_Email-ok860184@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/osama-khan-220a1326a/">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-osama--khan--220a1326a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/Websevel">
-    <img src="https://img.shields.io/badge/🐙_GitHub-Websevel-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  
-</div>
-
----
-
-<div align="center">
-  
-  ### ⚡ Fun Fact
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%230A66C2&size=20&center=true&vCenter=true&width=600&height=50&lines=I+turn+coffee+☕+into+code+💻+and+data+📊+into+insights+🧠" />
-  
-  ---
-  
   <img src="https://komarev.com/ghpvc/?username=Websevel&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile Views" />
-  
-  <p align="center">⭐ Star my repositories if you find them interesting! ⭐</p>
-  
+
 </div>
 
